@@ -24,7 +24,7 @@ Date : February 2016
 
 Author : [Daniel ARTCHOUNIN (Université de Technologie de Compiègne)] (https://github.com/daniel-artchounin/sy09_td0/)
 
-[Subject](./Project 1/Subject/TP0.pdf)
+[Subject](./Project 0/Subject/TP0.pdf)
 
 [Source](./Projet 1/Source/)
 
@@ -38,7 +38,7 @@ Date : March 2016
 
 [Source](./Projet 1/Source/)
 
-[Report](./Projet 1/Report/.pdf)
+[Report](./Projet 1/Report/sy09-compte-rendu-tp1-Vallois-Artchounin.pdf)
 
 --
 
@@ -50,7 +50,7 @@ Date : April 2016
 
 [Source](./Projet 2/Source/)
 
-[Report](./Projet 2/Report/.pdf)
+[Report](./Projet 2/Report/sy09-compte-rendu-tp2-Vallois-Artchounin.pdf)
 
 --
 
@@ -62,7 +62,7 @@ Date : May 2016
 
 [Source](./Projet 3/Source/)
 
-[Report](./Projet 3/Report/.pdf)
+[Report](./Projet 3/Report/sy09-compte-rendu-tp3-Vallois-Artchounin.pdf)
 
 --
 
@@ -74,7 +74,7 @@ Date : June 2016
 
 [Source](./Projet 4/Source/)
 
-[Report](./Projet 4/Report/.pdf)
+[Report](./Projet 4/Report/sy09-compte-rendu-tp4-Vallois-Artchounin.pdf)
 
 ---
 
