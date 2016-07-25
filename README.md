@@ -20,7 +20,7 @@ Ceci est les projets du cours de SY09 (Analyse des données et Data-Mining) dans
 
 Date : February 2016
 
-Author : Daniel ARTCHOUNIN (Université de Technologie de Compiègne)
+Author : [Daniel ARTCHOUNIN (Université de Technologie de Compiègne)] (https://github.com/daniel-artchounin/sy09_td0/)
 
 [Subject](./Project 1/Subject/TP0.pdf)
 
