@@ -16,6 +16,8 @@ Ceci est les projets du cours de SY09 (Analyse des données et Data-Mining) dans
 
 ### Composition 
 
+--
+
 ##### Project 0 : Introduction to R (Introduction à R)
 
 Date : February 2016
@@ -25,6 +27,8 @@ Author : [Daniel ARTCHOUNIN (Université de Technologie de Compiègne)] (https:/
 [Subject](./Project 1/Subject/TP0.pdf)
 
 [Source](./Projet 1/Source/)
+
+--
 
 ##### Project 1 : Descriptive statistics, Principal Component Analysis (Statistique descriptive, Analyse en composantes principales)
 
@@ -36,6 +40,8 @@ Date : March 2016
 
 [Report](./Projet 1/Report/.pdf)
 
+--
+
 ##### Project 2 : Automatic classification (Classification automatique)
 
 Date : April 2016
@@ -46,6 +52,8 @@ Date : April 2016
 
 [Report](./Projet 2/Report/.pdf)
 
+--
+
 ##### Project 3 : Discrimination, Bayesian decision theory (Discrimination, théorie bayésienne de la décision)
 
 Date : May 2016
@@ -55,6 +63,8 @@ Date : May 2016
 [Source](./Projet 3/Source/)
 
 [Report](./Projet 3/Report/.pdf)
+
+--
 
 ##### Project 4 : Discrimination
 
