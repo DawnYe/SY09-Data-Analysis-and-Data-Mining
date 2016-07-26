@@ -8,9 +8,9 @@ Technologies : R & Data-Mining concepts
 
 --- 
 
-Here is a practical exercises of the courses SY09 (Data analysis and Data-Mining) in which we must do four projects in R with an introduction to it.
+Here are practical exercises of the courses SY09 (Data analysis and Data-Mining) in which we must do four projects in R with an introduction to it.
 
-Ceci est les projets du cours de SY09 (Analyse des données et Data-Mining) dans lequel nous devons faire quatre projets en R avec une introduction à celui-ci.
+Voici des exercices pratiques du cours de SY09 (Analyse des données et Data-Mining) dans lequel nous devons faire quatre projets en R avec une introduction à celui-ci.
 
 ---
 
